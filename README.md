@@ -1,2 +1,2 @@
-# Deep-Learning-Handson
+# Deep-Learning-Hands-on
 Practising Pytorch and image classification techniques on Google Colab
